@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Planeptunia
+- 👀 I’m interested in Discord Bots, Rhythm Games, Strange Music, Game Development
+- 🌱 I’m currently learning C++, Unreal Engine
+- 💞️ I’m looking to collaborate on Discord Bots
+- 📫 How to reach me: Discord: Planeptunia#1187, VK: [link](https://vk.com/planeptunia)
