@@ -2,4 +2,4 @@
 - 👀 I’m interested in Discord Bots, Rhythm Games, Strange Music, Game Development
 - 🌱 I’m currently learning Godot Engine, GDscript
 - 💞️ I’m looking to collaborate on Discord Bots
-- 📫 How to reach me: Discord: Planeptunia#1187, VK: [link](https://vk.com/planeptunia)
+- 📫 How to reach me: Discord: Planeptunia, VK: [link](https://vk.com/planeptunia)
