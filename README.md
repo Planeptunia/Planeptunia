@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Planeptunia
-- 👀 I’m interested in Discord Bots, Rhythm Games, Strange Music, Game Development
-- 🌱 I’m currently learning Godot Engine, GDscript
-- 💞️ I’m looking to collaborate on Discord Bots
+- 👀 I’m interested in Game Development, Software Development
+- 🌱 I’m currently learning everything coming useful in my journey
 - 📫 How to reach me: Discord: Planeptunia, VK: [link](https://vk.com/planeptunia)
